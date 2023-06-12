@@ -1,0 +1,15 @@
+step1：Using the 'T1' file, a suitable cycle threshold T is derived.
+
+step2: Using the 'silu' file, assign T to T_period in the 'silu' file. It is worth noting that 'test1' is the range of the training set for this dataset. 'Anew' is the predicted value, which is given here to avoid repeating the experiment. BPNN.mat records the result.
+
+step3: Using the 'test' file.
+
+step4: Using the 'test_own_part' file. 
+
+step5: Using the 'FexpH' file. 
+
+step6: Using the 'DTW_twonew' file. 
+
+step7: Using the 'lstmown' file. 
+
+step8: Using the 'value_pre' file. ’hunown.mat‘ is the dataset of experimental results.
